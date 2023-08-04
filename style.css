@@ -1,0 +1,43 @@
+*{
+    background-color: #265cc5;
+}
+.section{
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.bar{
+    font-family: Arial;
+    color: white;
+    font-size: medium;
+    margin-left: 110px;
+    margin-top: 10px;  
+}
+.bold{
+    background-color: rgb(21, 11, 215);
+    padding-top:14px;
+    padding-bottom: 14px;
+    padding-left: 100px;
+    padding-right: 118px;
+    margin-left: -110px;
+}
+#loop{
+    margin-top: -15px;
+}
+.bold1{
+    background-color: rgb(21, 11, 215);
+    padding-top:14px;
+    padding-bottom: 14px;
+    padding-left: 100px;
+    padding-right: 86.5px;
+    margin-left: -110px; 
+}
+.image{
+    width: 980px;
+    height: 700px;
+}
+.element{
+    margin-top: -650px;
+    margin-left: 540px;
+}
+
+
